@@ -5,7 +5,7 @@
  * 1 vil -> 1 house
  * Scout
  * Collect animals
- * 20vils before Feudal
+ * 20 vils before Feudal
 
  * How many vils on each resource?
 
