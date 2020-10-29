@@ -32,3 +32,16 @@ Based on https://www.aoezone.net/threads/build-order-reference-pdf.144511/
  * Build Stables
  * Do Wood and Farm upgrades
  * Before going to castle -> Wheelbarrow
+
+
+# Resources
+
+ * https://aoe2.net/
+ * https://aoe2.club/
+ * https://aoestats.io/
+ * https://www.aoezone.net
+ * https://github.com/SiegeEngineers
+ * https://ratings.aoe2.se
+ * https://liquipedia.net/ageofempires/Main_Page
+ * https://ageofempires.fandom.com/
+ * https://aokhotkeys.appspot.com/editor
