@@ -33,6 +33,36 @@ Based on https://www.aoezone.net/threads/build-order-reference-pdf.144511/
  * Do Wood and Farm upgrades
  * Before going to castle -> Wheelbarrow
 
+# Maps
+
+## Water Maps
+
+ * Italians
+ * Vikings
+ * Japs
+
+## Hybrid Maps
+
+ * Strong eco civs
+   * Japs (Fishingboats are strong, mills/lumber camp cost only 50 wood)
+   * Persians
+   * Liths
+
+## Open Land Maps (Ara, Serengetti)
+
+ * Aggressive (stable or meso civs)
+   * Liths
+   * Magyars
+   * Atztecs
+   * Mayans
+   * ...
+
+
+## Closed Maps (Arena, Hideout)
+
+ * Strong caste age / imp civs
+   * Aztecs
+   * Khmer
 
 # Resources
 
