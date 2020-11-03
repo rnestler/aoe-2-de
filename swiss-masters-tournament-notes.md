@@ -64,3 +64,22 @@
  * Use my advantage
  * Use my resources
  * Do upgrades faster!
+
+
+# Game 2
+
+## Arabia
+
+ * How to defend against a drush for noobs:
+   * Don't panic
+   * Do not build barracks out of reach from TC
+   * Do not build a tower that is completely useless
+   * Use 6 vils to build, which would win the fight
+
+## Four Lakes
+
+ * More vils on wood
+ * Build second LC faster
+ * Finish your opponent if they are down
+ * Vil snipe with archers was nice, but then attack!
+
