@@ -11,3 +11,6 @@
 
  * b -> *b*arracks
  * a -> *a*rrow
+ * w -> pallisade *w*all
+ * s -> *s*tone wall
+ * c -> stable (*c*avallery)
